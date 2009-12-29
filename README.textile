@@ -7,6 +7,7 @@ Hill Holliday
 Updated Memo's oF templates for the 0061 release.
 No iPhone template for 0061 yet - ofxiPhone needs some modifications first.
 <hr/>
+h2. Original Readme from Memo
 XCode 3.0+ templates for openFrameworks Applications for Desktop and iPhone .
  
 03/06/2009
@@ -37,18 +38,18 @@ A folder will be created with the name you choose, also the executable will have
 Note the location HAS to be a subfolder of the apps in the related openframeworks working directory.
  
 I.e. If you are creating a desktop application, you need to choose the location:
-<folder_where_openframeworks_macosx_is> / apps / <some_folder>
+&lt;folder_where_openframeworks_macosx_is&gt; / apps / &lt;some_folder&gt;
  
 This will create the folder below and place all files in there:
-<folder_where_openframeworks_macosx_is> / apps / <some_folder> / <project_name>
+&lt;folder_where_openframeworks_macosx_is&gt; / apps / &lt;some_folder&gt; / &lt;project_name&gt;
 e.g.
 /Users/Memo/Documents/openFrameworks_mac/apps/Memo Stuff/Killer App 3
  
 Likewise if you are creating an iphone application, you need to choose the location:
-<folder_where_openframeworks_iphone_is> / apps / <some_folder>
+&lt;folder_where_openframeworks_iphone_is&gt; / apps / &lt;some_folder&gt;
  
 This will create the folder below and place all files in there:
-<folder_where_openframeworks_iphone_is> / apps / <some_folder> / <project_name>
+&lt;folder_where_openframeworks_iphone_is&gt; / apps / &lt;some_folder&gt; / &lt;project_name&gt;
 e.g.
 /Users/Memo/Documents/openFrameworks_iphone/apps/Memo Stuff/Killer App 4
  
