@@ -7,6 +7,7 @@ Hill Holliday
 Updated Memo's oF templates for the 0061 release.
 No iPhone template for 0061 yet - ofxiPhone needs some modifications first.
 <hr/>
+
 h2. Original Readme from Memo
 XCode 3.0+ templates for openFrameworks Applications for Desktop and iPhone .
  
